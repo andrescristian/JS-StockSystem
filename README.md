@@ -27,6 +27,3 @@ Elaboração de um Site totalmente responsivo para o Projeto Integrador UC16 do 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
 
-
-## Componentes a serem analisados :
-- QRcode 
